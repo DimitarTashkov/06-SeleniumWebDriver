@@ -7,6 +7,10 @@
       "RelativeMoniker": "D:0:0:{C6BD2572-D4A3-469C-8E74-F5581E6B2771}|TestProject3\\TestProject3.csproj|solutionrelative:testproject3\\dropdown.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{C6BD2572-D4A3-469C-8E74-F5581E6B2771}|TestProject3\\TestProject3.csproj|c:\\users\\mitko\\source\\repos\\08-exercise-ci-cd-github-actions-resources\\08-exercise-ci-cd-github-actions-resources\\06-seleniumwebdriver\\testproject3\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6BD2572-D4A3-469C-8E74-F5581E6B2771}|TestProject3\\TestProject3.csproj|solutionrelative:testproject3\\usings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{B49C8D5A-B91A-41D5-9F8C-DA6621E27C06}|TestProject2\\TestProject2.csproj|c:\\users\\mitko\\source\\repos\\08-exercise-ci-cd-github-actions-resources\\08-exercise-ci-cd-github-actions-resources\\06-seleniumwebdriver\\testproject2\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B49C8D5A-B91A-41D5-9F8C-DA6621E27C06}|TestProject2\\TestProject2.csproj|solutionrelative:testproject2\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -22,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,40 +42,55 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Usings.cs",
+              "DocumentMoniker": "C:\\Users\\mitko\\source\\repos\\08-Exercise-CI-CD-GitHub-Actions-Resources\\08-Exercise-CI-CD-GitHub-Actions-Resources\\06-SeleniumWebDriver\\TestProject3\\Usings.cs",
+              "RelativeDocumentMoniker": "TestProject3\\Usings.cs",
+              "ToolTip": "C:\\Users\\mitko\\source\\repos\\08-Exercise-CI-CD-GitHub-Actions-Resources\\08-Exercise-CI-CD-GitHub-Actions-Resources\\06-SeleniumWebDriver\\TestProject3\\Usings.cs",
+              "RelativeToolTip": "TestProject3\\Usings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T17:48:34.453Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
               "Title": "DropDown.cs",
               "DocumentMoniker": "C:\\Users\\mitko\\source\\repos\\08-Exercise-CI-CD-GitHub-Actions-Resources\\08-Exercise-CI-CD-GitHub-Actions-Resources\\06-SeleniumWebDriver\\TestProject3\\DropDown.cs",
               "RelativeDocumentMoniker": "TestProject3\\DropDown.cs",
               "ToolTip": "C:\\Users\\mitko\\source\\repos\\08-Exercise-CI-CD-GitHub-Actions-Resources\\08-Exercise-CI-CD-GitHub-Actions-Resources\\06-SeleniumWebDriver\\TestProject3\\DropDown.cs",
               "RelativeToolTip": "TestProject3\\DropDown.cs",
-              "ViewState": "AgIAABsAAAAAAAAAAAAowCoAAAAhAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T16:18:53.841Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Table.cs",
               "DocumentMoniker": "C:\\Users\\mitko\\source\\repos\\08-Exercise-CI-CD-GitHub-Actions-Resources\\08-Exercise-CI-CD-GitHub-Actions-Resources\\06-SeleniumWebDriver\\TestProject2\\Table.cs",
               "RelativeDocumentMoniker": "TestProject2\\Table.cs",
               "ToolTip": "C:\\Users\\mitko\\source\\repos\\08-Exercise-CI-CD-GitHub-Actions-Resources\\08-Exercise-CI-CD-GitHub-Actions-Resources\\06-SeleniumWebDriver\\TestProject2\\Table.cs",
               "RelativeToolTip": "TestProject2\\Table.cs",
-              "ViewState": "AgIAADMAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T16:18:36.993Z"
+              "WhenOpened": "2025-06-06T16:18:36.993Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "TestCalculator.cs",
               "DocumentMoniker": "C:\\Users\\mitko\\source\\repos\\08-Exercise-CI-CD-GitHub-Actions-Resources\\08-Exercise-CI-CD-GitHub-Actions-Resources\\06-SeleniumWebDriver\\TestProject1\\TestCalculator.cs",
               "RelativeDocumentMoniker": "TestProject1\\TestCalculator.cs",
               "ToolTip": "C:\\Users\\mitko\\source\\repos\\08-Exercise-CI-CD-GitHub-Actions-Resources\\08-Exercise-CI-CD-GitHub-Actions-Resources\\06-SeleniumWebDriver\\TestProject1\\TestCalculator.cs",
               "RelativeToolTip": "TestProject1\\TestCalculator.cs",
-              "ViewState": "AgIAADIAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T16:18:12.912Z"
+              "WhenOpened": "2025-06-06T16:18:12.912Z",
+              "EditorCaption": ""
             }
           ]
         }

@@ -102,3 +102,4 @@ C:\Users\mitko\source\repos\08-Exercise-CI-CD-GitHub-Actions-Resources\08-Exerci
 C:\Users\mitko\source\repos\08-Exercise-CI-CD-GitHub-Actions-Resources\08-Exercise-CI-CD-GitHub-Actions-Resources\06-SeleniumWebDriver\TestProject1\obj\Debug\net6.0\TestProject1.pdb
 C:\Users\mitko\source\repos\08-Exercise-CI-CD-GitHub-Actions-Resources\08-Exercise-CI-CD-GitHub-Actions-Resources\06-SeleniumWebDriver\TestProject1\obj\Debug\net6.0\TestProject1.genruntimeconfig.cache
 C:\Users\mitko\source\repos\08-Exercise-CI-CD-GitHub-Actions-Resources\08-Exercise-CI-CD-GitHub-Actions-Resources\06-SeleniumWebDriver\TestProject1\obj\Debug\net6.0\ref\TestProject1.dll
+C:\Users\mitko\source\repos\08-Exercise-CI-CD-GitHub-Actions-Resources\08-Exercise-CI-CD-GitHub-Actions-Resources\06-SeleniumWebDriver\TestProject1\obj\Debug\net6.0\TestProject1.sourcelink.json
