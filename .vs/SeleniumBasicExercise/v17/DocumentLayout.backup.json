@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,6 +35,10 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
             },
             {
               "$type": "Bookmark",
@@ -50,8 +54,7 @@
               "RelativeToolTip": "TestProject3\\Usings.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-10T17:48:34.453Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-10T17:48:34.453Z"
             },
             {
               "$type": "Document",
@@ -61,7 +64,7 @@
               "RelativeDocumentMoniker": "TestProject3\\DropDown.cs",
               "ToolTip": "C:\\Users\\mitko\\source\\repos\\08-Exercise-CI-CD-GitHub-Actions-Resources\\08-Exercise-CI-CD-GitHub-Actions-Resources\\06-SeleniumWebDriver\\TestProject3\\DropDown.cs",
               "RelativeToolTip": "TestProject3\\DropDown.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAgwBQAAAAmAAAAAAAAAA==",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwCYAAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-06T16:18:53.841Z",
               "EditorCaption": ""
@@ -76,8 +79,7 @@
               "RelativeToolTip": "TestProject2\\Table.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T16:18:36.993Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T16:18:36.993Z"
             },
             {
               "$type": "Document",
@@ -89,8 +91,7 @@
               "RelativeToolTip": "TestProject1\\TestCalculator.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-06T16:18:12.912Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-06T16:18:12.912Z"
             }
           ]
         }
